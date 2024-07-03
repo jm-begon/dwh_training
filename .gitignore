@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 
-session1/open_weather_assignment_sol.py
+session1/*_sol.py
+session1/*_sol.ipynb
